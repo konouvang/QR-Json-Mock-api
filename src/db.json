@@ -1,0 +1,172 @@
+{
+    "data": [
+      {
+        "type": "practiceBrandImages",
+        "id": "1",
+        "attributes": {
+          "practiceId": 1,
+          "practiceBrandImageContextId": 1,
+          "publicUrl": "https://loremflickr.com/470/188"
+        },
+        "relationships": {
+          "practiceBrandImageContext": {
+            "data": {
+              "type": "practiceBrandImageContexts",
+              "id": "1"
+            },
+            "links": {
+              "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/1/relationships/practiceBrandImageContext",
+              "related": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/1/practiceBrandImageContext"
+            }
+          }
+        },
+        "links": {
+          "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/1"
+        }
+      },
+      {
+        "type": "practiceBrandImages",
+        "id": "2",
+        "attributes": {
+          "practiceId": 1,
+          "practiceBrandImageContextId": 2,
+          "publicUrl": "https://loremflickr.com/350/126"
+        },
+        "relationships": {
+          "practiceBrandImageContext": {
+            "data": {
+              "type": "practiceBrandImageContexts",
+              "id": "2"
+            },
+            "links": {
+              "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/2/relationships/practiceBrandImageContext",
+              "related": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/2/practiceBrandImageContext"
+            }
+          }
+        },
+        "links": {
+          "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/2"
+        }
+      },
+      {
+        "type": "practiceBrandImages",
+        "id": "3",
+        "attributes": {
+          "practiceId": 1,
+          "practiceBrandImageContextId": 3,
+          "publicUrl": "https://loremflickr.com/128/47"
+        },
+        "relationships": {
+          "practiceBrandImageContext": {
+            "data": {
+              "type": "practiceBrandImageContexts",
+              "id": "3"
+            },
+            "links": {
+              "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/3/relationships/practiceBrandImageContext",
+              "related": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/3/practiceBrandImageContext"
+            }
+          }
+        },
+        "links": {
+          "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/3"
+        }
+      },
+      {
+        "type": "practiceBrandImages",
+        "id": "4",
+        "attributes": {
+          "practiceId": 1,
+          "practiceBrandImageContextId": 4,
+          "publicUrl": "https://loremflickr.com/190/190"
+        },
+        "relationships": {
+          "practiceBrandImageContext": {
+            "data": {
+              "type": "practiceBrandImageContexts",
+              "id": "4"
+            },
+            "links": {
+              "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/4/relationships/practiceBrandImageContext",
+              "related": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/4/practiceBrandImageContext"
+            }
+          }
+        },
+        "links": {
+          "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/4"
+        }
+      },
+      {
+        "type": "practiceBrandImages",
+        "id": "5",
+        "attributes": {
+          "practiceId": 1,
+          "practiceBrandImageContextId": 5,
+          "publicUrl": "https://loremflickr.com/618/156"
+        },
+        "relationships": {
+          "practiceBrandImageContext": {
+            "data": {
+              "type": "practiceBrandImageContexts",
+              "id": "5"
+            },
+            "links": {
+              "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/5/relationships/practiceBrandImageContext",
+              "related": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/5/practiceBrandImageContext"
+            }
+          }
+        },
+        "links": {
+          "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/5"
+        }
+      },
+      {
+        "type": "practiceBrandImages",
+        "id": "6",
+        "attributes": {
+          "practiceId": 1,
+          "practiceBrandImageContextId": 6,
+          "publicUrl": "https://loremflickr.com/7/77"
+        },
+        "relationships": {
+          "practiceBrandImageContext": {
+            "data": {
+              "type": "practiceBrandImageContexts",
+              "id": "6"
+            },
+            "links": {
+              "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/6/relationships/practiceBrandImageContext",
+              "related": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/6/practiceBrandImageContext"
+            }
+          }
+        },
+        "links": {
+          "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/6"
+        }
+      },
+      {
+        "type": "practiceBrandImages",
+        "id": "7",
+        "attributes": {
+          "practiceId": 1,
+          "practiceBrandImageContextId": 7,
+          "publicUrl": "https://loremflickr.com/302/89"
+        },
+        "relationships": {
+          "practiceBrandImageContext": {
+            "data": {
+              "type": "practiceBrandImageContexts",
+              "id": "7"
+            },
+            "links": {
+              "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/7/relationships/practiceBrandImageContext",
+              "related": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/7/practiceBrandImageContext"
+            }
+          }
+        },
+        "links": {
+          "self": "https://institution-mx.oberd.test/api/v1/practiceBrandImages/7"
+        }
+      }
+    ]
+  }
